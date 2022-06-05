@@ -5,7 +5,7 @@
 *{
     padding: 0;
     margin: 0;
-    box-sizing: border-box;   
+    box-sizing: border-box;    
 }
 
 html{
@@ -269,6 +269,7 @@ transition: 0.5s ease-in-out;
 #portfolio .portfolio-header h1{
     margin-bottom: 50px;
 }
+
 #portfolio .all-projects {
     display: flex;
     align-items: center;
@@ -294,7 +295,7 @@ transition: 0.5s ease-in-out;
     align-items: flex-start;
     justify-content: center;
     flex-direction: column;
-    background-image: linear-gradient(60deg, #070652 0%, rgb(5, 29, 105) 100%);
+    background-color: #ffffff;
     color: #010029;
 }
 
